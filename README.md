@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sp3cni2
 - 👀 GameDev, Data Science, Simulations
 - 🌱 Python3, C++, C, OpenGL
-
+- 📣 siggis#7562 on Discord
 
 <!---
 Sp3cni2/Sp3cni2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
