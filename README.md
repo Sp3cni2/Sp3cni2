@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sp3cni2
-- 👀 GameDev, Data Science, Simulations, Aerospace, Control Theory
+- 👀 GameDev and Software Architecture, Data Science, Simulations, Aerospace, Control Theory
 - 🌱 Python3, C++, C
 - 📣 Only here for now, remaking my hangouts
 
