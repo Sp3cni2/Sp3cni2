@@ -7,6 +7,13 @@ Fields of Expertise:
    * Mechanical Stress/Fatigue Tests
    * Semi-Automatic Diagnostics with Vibration Analysis
 
+Okay, so from things I had some experience with in Python: 
+  * Using concurrent processes for improvement in analyzing test data from field testing.
+  * Kinda made but never really finished a proof of concept for 6-DOF rocket launch platform with use of more architecturally sound designs. One function - One purpose, encapsulations, interfacing, builders etc.   
+
+
+
+
 On hiatus until they finally send me that RAM extension I ordered...
 
 <!---
