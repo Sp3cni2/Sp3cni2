@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @Sp3cni2
-- 👀 GameDev, Data Science, Simulations
-- 🌱 Python3, C++, C, OpenGL
-- 📣 siggis#7562 on Discord
+- 👀 GameDev, Data Science, Simulations, Aerospace, Control Theory
+- 🌱 Python3, C++, C
+- 📣 Only here for now, remaking my hangouts
 
+Fields of Expertise: 
+   * Mechanical Stress/Fatigue Tests
+   * Semi-Automatic Diagnostics with Vibration Analysis
+   * 
+ 
 
 On hiatus until they finally send me that RAM extension I ordered...
 
