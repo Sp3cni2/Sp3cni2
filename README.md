@@ -1,13 +1,11 @@
 - 👋 Hi, I’m @Sp3cni2
-- 👀 GameDev and Software Architecture, Data Science, Simulations, Aerospace, Control Theory
+- 👀 GameDev and Software Architecture, Data Analysis, Simulations, Aerospace, Control Theory
 - 🌱 Python3, C++, C
 - 📣 Only here for now, remaking my hangouts
 
 Fields of Expertise: 
    * Mechanical Stress/Fatigue Tests
    * Semi-Automatic Diagnostics with Vibration Analysis
-   * 
- 
 
 On hiatus until they finally send me that RAM extension I ordered...
 
